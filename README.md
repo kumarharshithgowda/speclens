@@ -1,8 +1,10 @@
+**Live demo:** https://speclens-app.vercel.app
 # SpecLens — Requirements Intelligence
 
 SpecLens turns specification PDFs into structured, analysed requirements, shows exactly what changed between document versions, generates QA test cases, and proves coverage with a traceability matrix.
 
 Built with **React + TypeScript + Vite + Tailwind + Radix + Recharts** (frontend) and **FastAPI + SQLAlchemy + PyMuPDF** (backend). SQLite by default, PostgreSQL-compatible.
+
 
 ## Quick start
 
